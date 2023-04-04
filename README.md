@@ -4,4 +4,6 @@ The reverse shell demonstrated in this article is undetectable to any type of an
 
 OK. Now that we know what a Reverse Shell is and how it works, let’s get started. In case you have any form of code execution on a Windows 10 or Windows 11 machine (remote or not) you can run this code in victim pc.
 
-Where YOUR_IP is the IP of the attacker machine and PORT is the listening port. You can run the above exploit on the victim machine.
+Where YOUR_IP is the IP of the attacker machine and PORT is the listening port(9999). You can run the above exploit on the victim machine.
+1. Start the listener on your system.
+2. Run this exploit on target pc to get a reverse shell.
